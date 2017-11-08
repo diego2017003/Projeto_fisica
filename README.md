@@ -1,8 +1,9 @@
 # Projeto_fisica
 **Projeto com ESP para lab de fisica experimental**
-#Primeiro dia:
-##Como fazer um led acender via WIFI com ESP8266 NodeMcu
-###Teste 1(primeiro código usando ESP para “piscar um led”)
+
+# Primeiro dia:
+## Como fazer um led acender via WIFI com ESP8266 NodeMcu
+### Teste 1(primeiro código usando ESP para “piscar um led”)
 ![ESP8266](https://cdn.evbuc.com/eventlogos/228809435/esplayout.png "ESP826 NodeMcu")
 No primeiro passo criamos um sketch na ide do arduino para fazer um led piscasse continuamente em um loop, entretanto antes de criar a parte lógica do processo foi necessário tornar a ide do arduino compatível com a placa do ESP8266.
 Para isso, seguimos o seguinte caminho:([Tutorial que seguimos](https://www.filipeflop.com/blog/programar-nodemcu-com-ide-arduino/))
